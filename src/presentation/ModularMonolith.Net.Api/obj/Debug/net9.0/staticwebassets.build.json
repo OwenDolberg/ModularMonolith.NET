@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8tMZa/vff+dstXLYZ2fFVaAsUP0LJwh0A4DneUB2kG8=",
+  "Source": "ModularMonolith.Net.Api",
+  "BasePath": "_content/ModularMonolith.Net.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

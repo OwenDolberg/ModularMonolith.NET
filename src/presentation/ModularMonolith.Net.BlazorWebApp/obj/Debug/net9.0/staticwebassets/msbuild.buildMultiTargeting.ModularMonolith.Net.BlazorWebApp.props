@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ModularMonolith.Net.BlazorWebApp.props" />
+</Project>

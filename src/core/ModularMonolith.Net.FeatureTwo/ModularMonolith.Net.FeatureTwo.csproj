@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Domain\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ModularMonolith.Net.Common.Application\ModularMonolith.Net.Common.Application.csproj" />
+      <ProjectReference Include="..\ModularMonolith.Net.Common.Domain\ModularMonolith.Net.Common.Domain.csproj" />
+      <ProjectReference Include="..\ModularMonolith.Net.Common.Infrastructure\ModularMonolith.Net.Common.Infrastructure.csproj" />
+    </ItemGroup>
+
+</Project>
